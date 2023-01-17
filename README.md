@@ -3,17 +3,16 @@
 Confirmed deaths
 In this section
 
-•  What is the daily number of confirmed deaths?
+•  What is the total number of confirmed deaths around the world?
 
-•  Daily confirmed deaths per million people
+•  What is the country with the highest number of deaths per population
 
-•  What is the cumulative number of confirmed deaths?
+•  What is percentage of the population is affected by covid
 
 •  Cumulative confirmed deaths per million people
 
-•  Weekly and biweekly deaths: where are confirmed deaths increasing or falling?
+•  What is th continents with the highest death count per population?
 
-•  Global comparison: where are confirmed deaths increasing most rapidly?
 
 Three points on confirmed death figures to keep in mind
 All three points are true for all currently available international data sources on COVID-19 deaths:
