@@ -70,7 +70,7 @@ order by 1,2
 --Showing total population vs vaccinations
 
 select die.continent, die.location, die.date, die.population_density, vak.new_vaccinations
-, SUM(cast(vak.new_vaccinations as )) OVER (Partition by die.location)
+, SUM(cast(vak.new_vaccinations as int )) OVER (Partition by die.location)
 from PortofolioProject..coviddeath die
 join PortofolioProject..covidvaksin vak
 	on die.location = vak.location
